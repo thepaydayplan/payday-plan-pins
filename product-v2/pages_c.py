@@ -167,7 +167,7 @@ def p_routine():
 <div class="cav" style="flex:none;width:190px;font-size:23px;line-height:1.05;color:{GREEN};transform:rotate(-2deg)">same order, every payday, for good</div></div>
 {card}
 <div style="margin-top:16px;display:grid;grid-template-columns:1fr 1fr;gap:14px">{pause}{surprise}</div>
-<div style="margin-top:12px;font-size:11px;font-weight:600;color:{GREY};text-align:center">Pay changed or a new bill turned up? Redo page 6 (or the spreadsheet’s Setup tab) and update this card in pencil.</div>
+<div style="margin-top:12px;font-size:11px;font-weight:600;color:{GREY};text-align:center">Pay changed or a new bill turned up? Redo page 6 (or the spreadsheet’s My Budget tab) and update this card in pencil.</div>
 <div style="margin-top:18px;display:flex;align-items:flex-end;gap:12px;border-top:2px solid {GOLD};padding-top:14px">
 <span class="cav" style="flex:none;font-size:26px;color:{NAVY}">We graduated on</span><span class="wl" style="flex:1;height:24px"></span>
 <span class="cav" style="flex:none;font-size:26px;color:{NAVY}">signed</span><span class="wl" style="flex:1.4;height:24px"></span></div>'''
